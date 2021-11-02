@@ -1,0 +1,1 @@
+INSERT INTO `customer` (`customerID`, `firstname`, `lastname`, `email`, `password`) VALUES (NULL, 'admin', 'admin', '', 'admin')

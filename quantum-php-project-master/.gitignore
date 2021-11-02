@@ -1,0 +1,5 @@
+/vendor
+/.idea
+/nbproject/private/
+composer.lock
+.env
